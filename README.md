@@ -25,8 +25,9 @@ Data visualization was done in Microsoft Power BI
  6) Agent Activity (Claims Handled vs. Claims Flagged as Anomalous)
  7) Hourly Analysis of Claims (Claim Activity by Time of Day)
 
-### Additional Dashboard Features:
-  - Filters and Slicers
-     1) Total Number of Claims
-     2) Total Claim Amount
-     3) Average Claim Amount
+### Filters and Slicers
+
+ 1) Total Number of Claims
+ 2) Total Claim Amount
+ 3) Average Claim Amount
+   
