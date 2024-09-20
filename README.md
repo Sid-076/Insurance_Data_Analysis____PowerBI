@@ -26,4 +26,4 @@ Data visualization was done in Microsoft Power BI
  7) Hourly Analysis of Claims (Claim Activity by Time of Day)
 
 ### Additional Dashboard Features:
-  -Filters and Slicers
+  - Filters and Slicers
