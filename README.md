@@ -27,7 +27,6 @@ Data visualization was done in Microsoft Power BI
 
 ### Additional Dashboard Features:
   - Filters and Slicers
-     1) Date Filter: Allow users to filter claims based on a specific time period.
-     2) City Filters: Let users drill down into data by geographical regions.
-     3) Insurance Type Filter: Filter based on insurance types (Health, Property, Travel, etc.).
-     4) Claim Anomaly Flag Filter: Focus on only the flagged claims for a deeper investigation.
+     1) Total Number of Claims
+     2) Total Claim Amount
+     3) Average Claim Amount
